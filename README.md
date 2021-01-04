@@ -9,7 +9,7 @@ The plugin formats the user name in the mention.
 - [🔌 Download from other sources](#user-content-download-from-other-sources)
 
 ## 🏷️ Requirements
-- <a href="https://invisioncommunity.com/">IPS Community Suite</a>: 4.2.x, 4.3.x, 4.4.x, 4.5.x version
+- [IPS Community Suite: 4.2.x, 4.3.x, 4.4.x, 4.5.x version](https://invisioncommunity.com/)
 
 ## 🧰 Install
 1. Go to: AdminCP -> System -> SITE FEATURES -> **Plugins**.  
