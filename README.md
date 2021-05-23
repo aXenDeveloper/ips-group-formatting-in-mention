@@ -4,7 +4,7 @@ The plugin formats the user name in the mention.
 
 ## 🏷️ Requirements
 
-- [IPS Community Suite: 4.2.x, 4.3.x, 4.4.x, 4.5.x version](https://invisioncommunity.com/)
+- [IPS Community Suite: 4.4, 4.5, 4.6 version](https://invisioncommunity.com/)
 
 ## 🧰 Install
 
